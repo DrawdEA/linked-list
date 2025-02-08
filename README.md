@@ -1,2 +1,2 @@
 # linked-list
-A linked list data stracture made in JavaScript.
+A linked list data structure made in JavaScript.
